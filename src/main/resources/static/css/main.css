@@ -1,0 +1,37 @@
+body{
+    overflow-x: hidden;
+}
+
+textarea{
+    resize: none;
+}
+
+.top-fold{
+    height: 95vh;
+}
+
+.top-fold-photo{
+    z-index: -1;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    min-width: 100vw;
+    overflow: hidden;
+}
+
+.bottom-text{
+    position: absolute;
+    bottom: 1vh;
+    left: calc(50vw - 82px);
+}
+
+.previous-work-photo{
+    max-width: 75vw;
+    min-width: 20vw;
+}
+
+.headshot{
+    max-width: 75vw;
+    min-width: 20vw;
+}
