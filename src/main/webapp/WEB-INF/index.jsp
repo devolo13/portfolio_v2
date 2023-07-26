@@ -46,26 +46,26 @@
             <img src="images\fbstProfile.png" alt="FBST Profile Screenshot" class="previous-work-photo m-2">
             <img src="images\fbstSearch.png" alt="FBST Search Screenshot" class="previous-work-photo m-2">
         </div>
-        <p class="ms-5">A social media app made with customizable themes and some other tweaks that I though might be fun. It was built in Python utilizing Flask and MySQL. If you want to check it out, you can find it <a href="http://fbst.devolo13.com">here</a>. If you really want to dig around, the source code can be foound over <a href="https://github.com/devolo13/Friendbookspacetter">here</a>.</p>
+        <p class="ms-5">A social media app made with customizable themes and some other tweaks that I though might be fun. It was built in Python utilizing Flask and MySQL. If you want to check it out, you can find it <a href="http://fbst.devolo13.com">here</a>. If you really want to dig around, the source code can be found over <a href="https://github.com/devolo13/Friendbookspacetter">here</a>.</p>
     </div>
     <div class="previous-work-example">
         <h4 class="mx-2">Password Manager:</h4>
         <div class="d-lg-flex justify-content-center mt-2">
-            <img src="images\matrix.png" alt="placeholder 1" class="previous-work-photo m-2">
-            <img src="images\matrix.png" alt="placeholder 2" class="previous-work-photo m-2">
-            <img src="images\matrix.png" alt="placeholder 3" class="previous-work-photo m-2">
+            <img src="images\password_manager_all.png" alt="Password Manager all passwords" class="previous-work-photo m-2">
+            <img src="images\password_manager_show.png" alt="Password Manager show one password" class="previous-work-photo m-2">
+            <img src="images\password_manager_edit.png" alt="Password Manager edit a password" class="previous-work-photo m-2">
         </div>
         <p class="ms-5">This was more of a project for myself. I love password managers, so being able to build and host my own seemed like an awesome project. I used Javascript with react and ended up with a pretty nice webapp. If you want to take a tour, you can find it deployed <a href="http://devolo13.com">here</a>, or you could check it out on <a href="https://github.com/devolo13/password_manager">github</a>.</p>
     </div>
-<%--    <div class="previous-work-example">--%>
-<%--        <h4 class="mx-2">Example 3:</h4>--%>
-<%--        <div class="d-lg-flex justify-content-center mt-2">--%>
-<%--            <img src="images\matrix.png" alt="placeholder 1" class="previous-work-photo m-2">--%>
-<%--            <img src="images\matrix.png" alt="placeholder 2" class="previous-work-photo m-2">--%>
-<%--            <img src="images\matrix.png" alt="placeholder 3" class="previous-work-photo m-2">--%>
-<%--        </div>--%>
-<%--        <p class="ms-5" id="about-me">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ratione pariatur ipsam corporis incidunt, quae, illo inventore, repudiandae facilis et nulla nisi eos a ex ab suscipit animi esse ducimus repellat.</p>--%>
-<%--    </div>--%>
+    <div class="previous-work-example">
+        <h4 class="mx-2">Group Planner:</h4>
+        <div class="d-lg-flex justify-content-center mt-2">
+            <img src="images\group_planner_login.png" alt="Group Planner login page" class="previous-work-photo m-2">
+            <img src="images\group_planner_account.png" alt="Group Planner account page" class="previous-work-photo m-2">
+            <img src="images\group_planner_calendar.png" alt="Group Planner calendar page" class="previous-work-photo m-2">
+        </div>
+        <p class="ms-5" id="about-me">A simple calendar app that shows you what days your friends are free so that you can schedule activities that work for everyone. This is still very much a work in progress, but if you'd like to follow along with the development you can check out the <a href="https://github.com/devolo13/group_planning">github</a>.</p>
+    </div>
     <!-- ABOUT ME -->
     <h3 class="mt-5">About Me</h3>
     <div class="d-lg-flex justify-content-between">
