@@ -55,7 +55,7 @@
             <img src="images\password_manager_show.png" alt="Password Manager show one password" class="previous-work-photo m-2">
             <img src="images\password_manager_edit.png" alt="Password Manager edit a password" class="previous-work-photo m-2">
         </div>
-        <p class="ms-5">This was more of a project for myself. I love password managers, so being able to build and host my own seemed like an awesome project. I used Javascript with react and ended up with a pretty nice webapp. If you want to take a tour, you can find it deployed <a href="http://devolo13.com">here</a>, or you could check it out on <a href="https://github.com/devolo13/password_manager">github</a>.</p>
+        <p class="ms-5">This was more of a project for myself. I love password managers, so being able to build and host my own seemed like an awesome project. I used Javascript with react and ended up with a pretty nice webapp. If you want to take a tour you can check it out on <a href="https://github.com/devolo13/password_manager">github</a>.</p>
     </div>
     <div class="previous-work-example">
         <h4 class="mx-2">Group Planner:</h4>
